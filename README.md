@@ -1,2 +1,2 @@
-# STARSHIP.github.io
+# STARSHIP
 learning
